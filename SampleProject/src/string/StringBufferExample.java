@@ -22,7 +22,7 @@ public class StringBufferExample
 		//buff.reverse();
 		//System.out.println("Reverse the string:"+buff);
 		//capacity
-	    System.out.println(buff.capacity());//how much space allocated internally
+	        System.out.println(buff.capacity());//how much space allocated internally
 		System.out.println(buff.length());//string length
 		
 
